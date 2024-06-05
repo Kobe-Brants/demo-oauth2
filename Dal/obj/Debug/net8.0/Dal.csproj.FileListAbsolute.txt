@@ -1,0 +1,17 @@
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/bin/Debug/net8.0/Dal.deps.json
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/bin/Debug/net8.0/Dal.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/bin/Debug/net8.0/Dal.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/bin/Debug/net8.0/Core.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/bin/Debug/net8.0/Domain.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/bin/Debug/net8.0/Core.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/bin/Debug/net8.0/Domain.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.csproj.AssemblyReference.cache
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.AssemblyInfoInputs.cache
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.AssemblyInfo.cs
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.csproj.CoreCompileInputs.cache
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.csproj.CopyComplete
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/refint/Dal.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/ref/Dal.dll

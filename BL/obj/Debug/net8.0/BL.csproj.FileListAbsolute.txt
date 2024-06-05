@@ -1,0 +1,17 @@
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/bin/Debug/net8.0/BL.deps.json
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/bin/Debug/net8.0/BL.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/bin/Debug/net8.0/BL.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/bin/Debug/net8.0/Core.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/bin/Debug/net8.0/Domain.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/bin/Debug/net8.0/Core.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/bin/Debug/net8.0/Domain.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.csproj.AssemblyReference.cache
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.AssemblyInfoInputs.cache
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.AssemblyInfo.cs
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.csproj.CoreCompileInputs.cache
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.csproj.CopyComplete
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/refint/BL.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/BL.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/Debug/net8.0/ref/BL.dll
