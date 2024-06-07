@@ -1,7 +1,8 @@
 using System.Text.Json.Serialization;
+using Api.Middleware;
 using Dal;
 
-namespace Api ;
+namespace Api;
 
 public class Program
 {
@@ -23,12 +24,25 @@ public class Program
         builder.Services.RegisterRepositories();
         builder.Services.RegisterServices();
 
+        builder.Services.AddAuthentication("Bearer")
+            .AddIdentityServerAuthentication("Bearer", options =>
+            {
+                options.ApiName = "myApi";
+                options.Authority = "https://localhost:7139";
+            });
+
+        builder.Services.AddAuthorizationBuilder()
+            .AddPolicy("read_access", policy =>
+                policy.RequireClaim("scope", "myApi.read"))
+            .AddPolicy("write_access", policy =>
+                policy.RequireClaim("scope", "myApi.write"));
+
         builder.Services.AddCors(options =>
         {
             options.AddPolicy("corsPolicy",
                 policy =>
                 {
-                    policy.WithOrigins("http://localhost:5080");
+                    policy.WithOrigins("https://localhost:5080");
                     policy.AllowAnyHeader();
                     policy.AllowAnyMethod();
                     policy.AllowCredentials();
@@ -36,7 +50,7 @@ public class Program
         });
 
         var app = builder.Build();
-        
+
         if (app.Environment.IsDevelopment())
         {
             app.UseSwagger();
@@ -50,7 +64,8 @@ public class Program
         app.UseAuthorization();
 
         app.MapControllers();
-        
+
+        app.UseContentSecurityPolicy();
         app.Run();
     }
 }

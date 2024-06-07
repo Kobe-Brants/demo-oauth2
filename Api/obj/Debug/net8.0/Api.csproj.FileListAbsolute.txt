@@ -68,3 +68,15 @@
 /Users/kobebrants/RiderProjects/DemoOAuth2/Api/obj/Debug/net8.0/ref/Api.dll
 /Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/BL.dll
 /Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/BL.pdb
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/obj/Debug/net8.0/Api.sourcelink.json
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/IdentityModel.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/IdentityModel.AspNetCore.OAuth2Introspection.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/IdentityServer4.AccessTokenValidation.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

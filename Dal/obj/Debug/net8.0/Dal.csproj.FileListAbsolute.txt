@@ -15,3 +15,4 @@
 /Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/refint/Dal.dll
 /Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.pdb
 /Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/ref/Dal.dll
+/Users/kobebrants/RiderProjects/DemoOAuth2/Dal/obj/Debug/net8.0/Dal.sourcelink.json
