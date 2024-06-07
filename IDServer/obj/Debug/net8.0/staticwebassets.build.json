@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e5vWp5ffmTblsIPriEwGBcGnqyo9dnrCpAQslogUZzk=",
+  "Source": "IDServer",
+  "BasePath": "_content/IDServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
