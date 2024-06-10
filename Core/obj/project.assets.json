@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kobebrants/RiderProjects/DemoOAuth2/Core/Core.csproj",
+      "projectUniqueName": "/Users/kobebrants/Documents/Bench/DemoOAuth2/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/kobebrants/RiderProjects/DemoOAuth2/Core/Core.csproj",
+      "projectPath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/Core/Core.csproj",
       "packagesPath": "/Users/kobebrants/.nuget/packages/",
-      "outputPath": "/Users/kobebrants/RiderProjects/DemoOAuth2/Core/obj/",
+      "outputPath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kobebrants/.nuget/NuGet/NuGet.Config"

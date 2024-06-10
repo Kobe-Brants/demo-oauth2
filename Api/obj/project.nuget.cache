@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpRRpMb5FMvPX5WaAJRAn5CwtHH2W37TkpNsz8WJTdPTYsai0Rwh+iN/K0U+NO5af8y8WRH9yh2Laz4dtFKxPQ==",
+  "dgSpecHash": "hr8Iw8wWsJ8sWyfeHZmTnrOhS9GoxndkNO47wPPDcFCj6ytNCKd6pNM9dR4vF7hZR3q4kd3np4SLHgbetMvOzQ==",
   "success": true,
-  "projectFilePath": "/Users/kobebrants/RiderProjects/DemoOAuth2/Api/Api.csproj",
+  "projectFilePath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/Api/Api.csproj",
   "expectedPackageFiles": [
     "/Users/kobebrants/.nuget/packages/identitymodel/4.0.0/identitymodel.4.0.0.nupkg.sha512",
     "/Users/kobebrants/.nuget/packages/identitymodel.aspnetcore.oauth2introspection/4.0.1/identitymodel.aspnetcore.oauth2introspection.4.0.1.nupkg.sha512",

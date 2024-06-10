@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LUbDVq3czc6HvY0IbzaPbzznMoNUGFR7PI5xG2b5k1sxgi873MXCXQBdyIo/56ABbRVnajL7hbVkQ2M9xSxSFg==",
+  "dgSpecHash": "oXpUPmACzYfTqJRxDT2CAWBL/p/Lv/UjeXl4u5eEe8pTv5OlJUXaMq8Fk0HwuswjvbGSWvVojhtHMPaZsViPlQ==",
   "success": true,
-  "projectFilePath": "/Users/kobebrants/RiderProjects/DemoOAuth2/BL/BL.csproj",
+  "projectFilePath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/BL/BL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

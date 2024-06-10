@@ -36,7 +36,7 @@ public class Program
                 policy.RequireClaim("scope", "myApi.read"))
             .AddPolicy("write_access", policy =>
                 policy.RequireClaim("scope", "myApi.write"));
-
+        
         builder.Services.AddCors(options =>
         {
             options.AddPolicy("corsPolicy",
@@ -62,7 +62,7 @@ public class Program
 
         app.UseAuthentication();
         app.UseAuthorization();
-
+        
         app.MapControllers();
 
         app.UseContentSecurityPolicy();

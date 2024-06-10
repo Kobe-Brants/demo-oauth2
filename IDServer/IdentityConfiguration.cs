@@ -62,7 +62,7 @@ public class IdentityConfiguration
                 AllowedScopes = { "myApi.read", "myApi.write" },
                 RefreshTokenUsage = TokenUsage.OneTimeOnly,
                 RefreshTokenExpiration = TokenExpiration.Sliding,
-                SlidingRefreshTokenLifetime = 86400 * 60 // 60 days
-            },
+                SlidingRefreshTokenLifetime = 86400 * 60
+            }
         };
 }

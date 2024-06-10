@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y6ZvC1Vy4upqq26Sw8IJDZ/gyC1H9qv5Kj4UxLaWScRKzHCdIUvyYKxl5ST2djEvsmVcaoW+PC5fIwQ41PGTaw==",
+  "dgSpecHash": "PbLbiwCUT6e5M0VVa+BfPn5kK7pnI821bceaahuRszTcooj3yaHd2iifn2VSM+4xjuBmdqMKd+fLbsKOxUu/fA==",
   "success": true,
-  "projectFilePath": "/Users/kobebrants/RiderProjects/DemoOAuth2/Domain/Domain.csproj",
+  "projectFilePath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

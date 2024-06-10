@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kobebrants/RiderProjects/DemoOAuth2/BL/BL.csproj",
+      "projectUniqueName": "/Users/kobebrants/Documents/Bench/DemoOAuth2/BL/BL.csproj",
       "projectName": "BL",
-      "projectPath": "/Users/kobebrants/RiderProjects/DemoOAuth2/BL/BL.csproj",
+      "projectPath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/BL/BL.csproj",
       "packagesPath": "/Users/kobebrants/.nuget/packages/",
-      "outputPath": "/Users/kobebrants/RiderProjects/DemoOAuth2/BL/obj/",
+      "outputPath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/BL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kobebrants/.nuget/NuGet/NuGet.Config"
@@ -67,11 +67,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/kobebrants/RiderProjects/DemoOAuth2/Core/Core.csproj": {
-              "projectPath": "/Users/kobebrants/RiderProjects/DemoOAuth2/Core/Core.csproj"
+            "/Users/kobebrants/Documents/Bench/DemoOAuth2/Core/Core.csproj": {
+              "projectPath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/Core/Core.csproj"
             },
-            "/Users/kobebrants/RiderProjects/DemoOAuth2/Domain/Domain.csproj": {
-              "projectPath": "/Users/kobebrants/RiderProjects/DemoOAuth2/Domain/Domain.csproj"
+            "/Users/kobebrants/Documents/Bench/DemoOAuth2/Domain/Domain.csproj": {
+              "projectPath": "/Users/kobebrants/Documents/Bench/DemoOAuth2/Domain/Domain.csproj"
             }
           }
         }
